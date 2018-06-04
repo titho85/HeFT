@@ -1,0 +1,6 @@
+<b>Nutzungsbedingungen</b>
+<ol>
+	<li>Maximale Dateigröße: 0</li>
+	<li>Dateiverschlüsselung: nicht aktiviert</li>
+	<li>Datei-Upload: aus dem Netz der LHH</li>
+</ol>

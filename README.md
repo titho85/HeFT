@@ -431,3 +431,10 @@ The very first version of Jirafeau after the fork of Jyraphe.
 - Docker fix
 - Advertise javascript license for LibreJS compatibility
 - other minor fixes
+
+## Version 3.4.1.1
+
+- Fixed HTTP_X_FORWARDED_FOR detection
+- Customisation for Landeshauptstadt Hannover
+- Fixed German localisation
+- Added Imprint and changed ToS

@@ -1,18 +1,3 @@
-<div id="description">
-	<h1>
-		<a href="./">
-			Was ist HeFT?
-		</a>
-	</h1>
-	<p>HeFT (Hannover File Transfer) ist ein Online-Dienst, der Ihnen hilft, Dateien zum Download schnell und einfach bereit zu stellen. Es ist keine Registrierung erforderlich. </p>
-	<p>So geht es:</p>
-	<ol>
-		<li>Datei auswählen</li>
-		<li>Einstellungen und ggf. Passwort definieren</li>
-		<li>Link zur Datei verschicken</li>
-	</ol>
-	<p>Hier geht's zu den <a href="nutzung.php">Nutzungsbedingungen.</a></p>
-</div>
 <div id="copyright">
     <p>
         <!-- Project links -->

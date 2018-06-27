@@ -269,6 +269,23 @@ else {
 
 </div>
 
+<hr style="margin: 30px 50px -10px 50px; border: 0; border-top: 1px solid #eee;" />
+<div id="description">
+	<h1 style="text-align: left;">
+		<a href="./">
+			Was ist HeFT?
+		</a>
+	</h1>
+	<p>HeFT (<b>H</b>annov<b>e</b>r <b>F</b>ile <b>T</b>ransfer) ist ein Online-Dienst, der Ihnen hilft, Dateien zum Download schnell und einfach bereit zu stellen. Es ist keine Registrierung erforderlich. </p>
+	<p>So geht es:</p>
+	<ol>
+		<li>Datei auswählen</li>
+		<li>Einstellungen und ggf. Passwort definieren</li>
+		<li>Link zur Datei verschicken</li>
+	</ol>
+	<p>Hier geht's zu den <a href="nutzung.php">Nutzungsbedingungen.</a></p>
+</div>
+
 <script type="text/javascript" lang="Javascript">
 // @license magnet:?xt=urn:btih:0b31508aeb0634b347b8270c7bee4d411b5d4109&dn=agpl-3.0.txt GPL-v3-or-Later
     document.getElementById('error_pop').style.display = 'none';

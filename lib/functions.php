@@ -1183,7 +1183,12 @@ function get_ip_list_http_forwarded()
  */
 function get_ip_address($cfg)
 {
-    $remote = $_SERVER['REMOTE_ADDR'];
+    if (has_http_forwarded()) {
+        $remote = $_SERVER['HTTP_X_FORWARDED_FOR'];
+    } else {
+        $remote = $_SERVER['REMOTE_ADDR'];
+    }
+
     if (count($cfg['proxy_ip']) == 0 || !has_http_forwarded()) {
         return $remote;
     }

@@ -130,7 +130,7 @@ function jirafeau_get_datetimefield($timestamp)
 
 function jirafeau_fatal_error($errorText, $cfg = array())
 {
-    echo '<div class="error"><h2>Error</h2><p>' . $errorText . '</p></div>';
+    echo '<div class="error"><h2>' . t('ERROR') . '</h2><p>' . $errorText . '</p></div>';
     require(JIRAFEAU_ROOT . 'lib/template/footer.php');
     exit;
 }

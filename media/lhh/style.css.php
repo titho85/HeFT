@@ -40,7 +40,7 @@ body {
 
 a, a:link, a:visited {
     color: #223344;
-    text-decoration: underlined;
+    text-decoration: underline;
 }
 
 #content {
@@ -49,6 +49,7 @@ a, a:link, a:visited {
     margin: 30px auto;
 	width: 1070px;
 	padding: 15px;
+	text-align: justify;
 }
 
 fieldset {
@@ -247,4 +248,5 @@ font-size:90%;
   padding-bottom: 15px;
   padding-left: 20px;
   background: url(email.png) no-repeat;
+  position: absolute;
 }

@@ -438,3 +438,9 @@ The very first version of Jirafeau after the fork of Jyraphe.
 - Customisation for Landeshauptstadt Hannover
 - Fixed German localisation
 - Added Imprint and changed ToS
+
+## Version 3.4.1.2
+
+- Style fixes
+- Preperation for Pilot@LHH
+- Other minor changes

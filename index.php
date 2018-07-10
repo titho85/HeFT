@@ -279,7 +279,7 @@ else {
 	<p>HeFT (<b>H</b>annov<b>e</b>r <b>F</b>ile <b>T</b>ransfer) ist ein Online-Dienst, der Ihnen hilft, Dateien zum Download schnell und einfach bereit zu stellen. Es ist keine Registrierung erforderlich. </p>
 	<p>So geht es:</p>
 	<ol>
-		<li>Datei auswählen</li>
+		<li>Datei auswählen, mehrere Dateien vorher zippen</li>
 		<li>Einstellungen und ggf. Passwort definieren</li>
 		<li>Link zur Datei verschicken</li>
 	</ol>

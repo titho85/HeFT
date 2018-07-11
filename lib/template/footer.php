@@ -10,7 +10,7 @@
         <?php
         if (false === empty($cfg['installation_done'])) {
             echo ' <span>|</span> ';
-            echo '<a href="tos.php">' . t('TOS') . '</a>';
+            echo '<a href="tos.php">' . t('IMPRINT') . '</a>';
         }
         ?>
     </p>

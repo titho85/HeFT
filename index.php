@@ -97,7 +97,7 @@ else {
 
     <div id="upload_finished_download_page">
     <p>
-        <a id="upload_link" href=""><?php echo t('DL_PAGE') ?></a>
+        <a id="upload_link" href="" target="_blank" rel="noopener"><?php echo t('DL_PAGE') ?></a>
         <a id="upload_link_email" href=""><img id="upload_image_email"/></a>
     </p><p>
         <code id=upload_link_text></code>
@@ -109,7 +109,7 @@ else {
     ?>
     <div id="upload_finished_preview">
     <p>
-        <a id="preview_link" href=""><?php echo t('VIEW_LINK') ?></a>
+        <a id="preview_link" href="" target="_blank" rel="noopener"><?php echo t('VIEW_LINK') ?></a>
     </p><p>
         <code id=preview_link_text></code>
         <button id="preview_link_button">✂</button>
@@ -120,7 +120,7 @@ else {
 
     <div id="upload_direct_download">
     <p>
-        <a id="direct_link" href=""><?php echo t('DIRECT_DL') ?></a>
+        <a id="direct_link" href="" target="_blank" rel="noopener"><?php echo t('DIRECT_DL') ?></a>
     </p><p>
         <code id=direct_link_text></code>
         <button id="direct_link_button">✂</button>
@@ -129,7 +129,7 @@ else {
 
     <div id="upload_delete">
     <p>
-        <a id="delete_link" href=""><?php echo t('DELETE_LINK') ?></a>
+        <a id="delete_link" href="" target="_blank" rel="noopener"><?php echo t('DELETE_LINK') ?></a>
     </p><p>
         <code id=delete_link_text></code>
         <button id="delete_link_button">✂</button>

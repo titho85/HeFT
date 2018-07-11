@@ -443,4 +443,5 @@ The very first version of Jirafeau after the fork of Jyraphe.
 
 - Style fixes
 - Preperation for Pilot@LHH
+- Customisation and localisation
 - Other minor changes

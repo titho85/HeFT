@@ -445,3 +445,9 @@ The very first version of Jirafeau after the fork of Jyraphe.
 - Preperation for Pilot@LHH
 - Customisation and localisation
 - Other minor changes
+
+## Version 3.4.1.3
+
+- ToS Update
+- Disabled ToS on download pages
+- Minor language fixes

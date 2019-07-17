@@ -1,9 +1,11 @@
 <b>Nutzungsbedingungen</b>
-<!--
-<ol>
-	<li>Maximale Dateigröße: nicht definiert</li>
-	<li>Dateiverschlüsselung: nicht aktiviert</li>
-	<li>Datei-Upload: aus dem Netz der LHH</li>
-</ol>
--->
-Die Nutzungsbedingungen werden während der Testphase noch definiert.<br />
+
+Die nachfolgenden Bedingungen für die Nutzung von HeFT werden anerkannt:
+
+1. HeFT ist ein Online-Dienst, der Ihnen hilft, Dateien zum Download schnell und einfach bereitzustellen und abzurufen. Die Datenhaltung erfolgt im Rechenzentrum der Landeshauptstadt Hannover. Die Dateien laufen nach Frist von maximal einem Monat ab. Der Download kann über die Eingabe eines Passwortes bzw. auf einmalige Durchführung beschränkt werden. Es wird empfohlen, die Dateien mit einem ZIP-Programm zu packen und mit einem Passwort zu schützen.
+
+2. HeFT ist ein Angebot für dienstliche Zwecke zur Versendung größerer Dateien bis max. 2 GB pro Vorgang und ist keine Plattform. Es besteht kein Rechtsanspruch auf die Bereitstellung des Zugangs zu HeFT. Die Zugangsberechtigung kann von der LHH gesperrt oder dauerhaft entzogen werden, wenn der Verdacht einer missbräuchlichen Nutzung besteht oder diese Nutzungsbedingungen nicht beachtet werden. Es gelten die Vorschriften des Telemediengesetzes (TMG).
+
+3. Der Austausch privater Dateien ist unzulässig. Ebenfalls unzulässig ist der Austausch von Dateien, wenn diese gegen gesetzliche Verbote oder Beschränkungen (z. B. Jugendschutz, Urheberrecht) verstoßen.
+
+4. Für den Austausch der Dateien sind allein die Mitarbeitenden der Fachbereiche und beteiligte Dritte rechtlich verantwortlich.

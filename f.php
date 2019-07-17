@@ -98,9 +98,11 @@ if (!empty($delete_code) && $delete_code == $link['link_code']) {
              <table>
              <tr><td>
              <?php echo t('GONNA_DEL') . ' "' . jirafeau_escape($link['file_name']) . '" (' . jirafeau_human_size($link['file_size']) . ').' ?>
-             </td></tr>
+             <!--
+			 </td></tr>
              <tr><td>
-                <?php echo t('USING_SERIVCE'). ' <a href="nutzung.php">' . t('TOS') . '</a>.' ?>
+			 -->
+                <?php //echo t('USING_SERIVCE'). ' <a href="nutzung.php">' . t('TOS') . '</a>.' ?>
              </td></tr>
              <tr><td>
                 <input type="submit" id="submit_delete"  value="<?php echo t('DELETE'); ?>"
@@ -145,9 +147,9 @@ if (!empty($link['key'])) {
              '</legend><table><tr><td>' .
              t('GIMME_PSW') . ' : ' .
              '<input type = "password" name = "key" />' .
-             '</td></tr>' .
-             '<tr><td>' .
-             t('USING_SERIVCE'). ' <a href="nutzung.php">' . t('TOS') . '</a>.' .
+             //'</td></tr>' .
+             //'<tr><td>' .
+             //t('USING_SERIVCE'). ' <a href="nutzung.php">' . t('TOS') . '</a>.' .
              '</td></tr>';
 
         if ($link['onetime'] == 'O') {
@@ -196,9 +198,9 @@ if (!$password_challenged && !$do_download && !$do_preview) {
         echo '<fieldset><legend>' . jirafeau_escape($link['file_name']) . '</legend><table>' .
              '<tr><td>' .
              t('NOW_DOWNLOADING') . ' "' . jirafeau_escape($link['file_name']) . '" (' . jirafeau_human_size($link['file_size']) . ').' .
-             '</td></tr>' .
-             '<tr><td>' .
-             t('USING_SERIVCE'). ' <a href="nutzung.php">' . t('TOS') . '</a>.' .
+             //'</td></tr>' .
+             //'<tr><td>' .
+             //t('USING_SERIVCE'). ' <a href="nutzung.php">' . t('TOS') . '</a>.' .
              '</td></tr>';
 
     if ($link['onetime'] == 'O') {
